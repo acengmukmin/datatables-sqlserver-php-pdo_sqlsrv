@@ -1,4 +1,5 @@
 # datatables-sqlserver
+I modified ssp class from https://github.com/emran/ssp/blob/master/ssp.php 
 It use to generate datatables with server side method on database SQL Server 2008 R2 with PDO_SQLSRV Driver.
 
 Please following instruction below.
